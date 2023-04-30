@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.post {
+    border-radius: 25px;
+    padding: 20px;
+    padding-top: 30px;
+    background-color: rgb(30, 29, 29); 
+    width: 540px;
+    height: fit-content;
+    margin: 32px;
+}

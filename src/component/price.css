@@ -1,0 +1,26 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.price {
+    font-size: 20px;
+    color: aqua;
+}
+
+.Time {
+    padding-right: 10px;
+    font-weight: bold;
+    font-size: 26px;
+    color: grey;
+}
+
+.prix {
+    padding-left: 10px;
+    padding-top: 25px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
